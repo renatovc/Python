@@ -1,5 +1,3 @@
-# Tranforma cualquier numero en cualquier base a numero base 10
-
 numeros = []
 bases = []
 
