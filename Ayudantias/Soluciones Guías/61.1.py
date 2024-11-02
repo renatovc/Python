@@ -1,14 +1,18 @@
 numero = int(input("Ingrese un número: "))
 
 divisores = [1]
+i = 2
 
-for i in range(2, (numero // 2) + 1):
+while i <= numero // 2:
     if numero % i == 0:
         divisores.append(i)
+    i += 1
 
 suma = 0
-for i in divisores:
-    suma = suma + i
+j = 0
+while j < len(divisores):
+    suma = suma + divisores[j]
+    j += 1
 
 if suma < numero:
     print("Deficiente")
