@@ -1,0 +1,248 @@
+###ENTRADA###
+2004
+Summer
+Tennis
+Doubles Men
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+Fernando GonzÃ¡lez
+NicolÃ¡s MassÃº
+
+PLATA:
+Nicolas Kiefer
+Rainer SchÃ¼ttler
+
+BRONCE:
+Ivan LjubiÄiÄ
+Mario AnÄiÄ
+###ENTRADA###
+1976
+Summer
+Artistic Gymnastics
+Uneven Bars Women
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+Nadia ComÄneci
+
+PLATA:
+Teodora Ungureanu
+
+BRONCE:
+MÃ¡rta EgervÃ¡ri
+###ENTRADA###
+2012
+Summer
+Basketball
+Basketball Women
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+Angel McCoughtry
+Asjha Jones
+Candace Parker
+Diana Taurasi
+Lindsay Whalen
+Maya Moore
+Seimone Augustus
+Sue Bird
+Swin Cash
+Sylvia Fowles
+Tamika Catchings
+Tina Charles
+
+PLATA:
+ClÃ©mence Beikes
+CÃ©line Dumerc
+Edwige Lawson-Wade
+Emmeline Ndongue
+EndÃ©nÃ© Miyem
+Florence Lepron
+Isabelle Yacoubou
+Jennifer Digbeu
+Marion Laborde
+Sandrine Gruda
+Ãlodie Godin
+Ãmilie Gomis
+
+BRONCE:
+Abby Bishop
+Belinda Snell
+Jenna O'Hea
+Jenni Screen
+Kathleen MacLeod
+Kristi Harrower
+Laura Hodges
+Lauren Jackson
+Liz Cambage
+Rachel Jarry
+Samantha Richards
+Suzy Batkovic
+###ENTRADA###
+2016
+Summer
+Artistic Gymnastics
+Individual All-Around Women
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+Simone Biles
+
+PLATA:
+Aly Raisman
+
+BRONCE:
+Aliya Mustafina
+###ENTRADA###
+2022
+Winter
+Snowboarding
+Team Cross Mixed
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+Lindsey Jacobellis
+Nick Baumgartner
+
+PLATA:
+Michela Moioli
+Omar Visintin
+
+BRONCE:
+Meryeta O'Dine
+Ãliot Grondin
+###ENTRADA###
+1972
+Summer
+Volleyball
+Volleyball Men
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+Jungo Morita
+Katsutoshi Nekoda
+Kenji Kimura
+Kenji Shimaoka
+Masayuki Minami
+Seiji Oko
+Tadayoshi Yokota
+Tetsuo Nishimoto
+Tetsuo Sato
+Yasuhiro Noguchi
+Yoshihide Fukao
+Yuzo Nakamura
+
+PLATA:
+Arnold Schulz
+Eckehard Pietzsch
+Horst Hagen
+Horst Peter
+JÃ¼rgen Maune
+Rainer Tscharke
+Rudi Schumann
+Siegfried Schneider
+Wolfgang LÃ¶we
+Wolfgang Maibohm
+Wolfgang Webner
+Wolfgang Weise
+
+BRONCE:
+Aleksandr Saprykin
+Leonid Zayko
+Valery Kravchenko
+Viktor Borshch
+Vladimir Kondra
+Vladimir Patkin
+Vladimir Putyatov
+Vyacheslav Domani
+Yefim Chulak
+Yevgeny Lapinsky
+Yury Poyarkov
+Yury Starunsky
+###ENTRADA###
+2016
+Summer
+Boxing
+Lightweight Women
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+Estelle Mossely
+
+PLATA:
+Yin Junhua
+
+BRONCE:
+Anastasiya Belyakova
+Mira Potkonen
+###ENTRADA###
+2016
+Summer
+Rugby Sevens
+Rugby Sevens Men
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+Apisai Domolailai
+Jasa Veremalua
+Jerry Tuwai
+Josua Tuisova
+Kitione Taliga
+Leone Nakarawa
+Osea Kolinisau
+Ro Dakuwaqa
+Samisoni Viriviri
+Savenaca Rawaca
+Semi Kunatani
+Vatemo Ravouvou
+Viliame Mata
+
+PLATA:
+Dan Bibby
+Dan Norton
+James Davies
+James Rodwell
+Marcus Watson
+Mark Bennett
+Mark Robertson
+Ollie Lindsay-Hague
+Phil Burgess
+Ruaridh McConnochie
+Sam Cross
+Tom Mitchell
+
+BRONCE:
+Cecil Afrika
+Cheslin Kolbe
+Dylan Sage
+FranÃ§ois Hougaard
+Juan de Jongh
+Justin Geduld
+Kwagga Smith
+Kyle Brown
+Philip Snyman
+Roscko Specman
+Seabelo Senatla
+Tim Agaba
+Werner Kok
+###ENTRADA###
+2020
+Summer
+Skateboarding
+Street Women
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+Momiji Nishiya
+
+PLATA:
+Rayssa Leal
+
+BRONCE:
+Funa Nakayama
+###ENTRADA###
+2004
+Summer
+Tennis
+Singles Men
+###SALIDA###
+Ingrese el año: Ingrese la temporada (Summer o Winter): Ingrese el nombre del deporte: Ingrese el nombre del evento: ORO:
+NicolÃ¡s MassÃº
+
+PLATA:
+Mardy Fish
+
+BRONCE:
+Fernando GonzÃ¡lez

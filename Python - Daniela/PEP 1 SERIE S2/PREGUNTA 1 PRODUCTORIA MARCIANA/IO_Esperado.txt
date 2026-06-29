@@ -1,0 +1,40 @@
+###ENTRADA###
+1223344556
+###SALIDA###
+Ingrese una secuencia de digitos: 25
+###ENTRADA###
+502644051724188601144
+###SALIDA###
+Ingrese una secuencia de digitos: 64
+###ENTRADA###
+7239308564691979266260
+###SALIDA###
+Ingrese una secuencia de digitos: 634894848
+###ENTRADA###
+7374259681007335419485
+###SALIDA###
+Ingrese una secuencia de digitos: 28800
+###ENTRADA###
+1562708072299605077860
+###SALIDA###
+Ingrese una secuencia de digitos: 81
+###ENTRADA###
+3378159892663350128032
+###SALIDA###
+Ingrese una secuencia de digitos: 1058158080
+###ENTRADA###
+6565689119069813141746
+###SALIDA###
+Ingrese una secuencia de digitos: 870912
+###ENTRADA###
+9176756065764023219268
+###SALIDA###
+Ingrese una secuencia de digitos: 1260
+###ENTRADA###
+1639355323714455200718
+###SALIDA###
+Ingrese una secuencia de digitos: 1530900
+###ENTRADA###
+1720234852221407225357
+###SALIDA###
+Ingrese una secuencia de digitos: 14700

@@ -1,0 +1,38 @@
+codigo ;seccion ;profesores            ;correo electronico           ;horario      ;salas
+ 10101 ;A1      ;Karina Matamala       ;karina.matamala@usach.cl     ;L2-M2-V1     ;ED801-ED801-ED603
+ 10101 ;A1      ;Sebastian Puelma      ;sebastian.puelma@usach.cl    ;V1           ;ED801
+ 10101 ;B1      ;Osvaldo Baeza         ;osvaldo.baeza@usach.cl       ;L3-M2-V2     ;ED403-ED502-ED403
+ 10101 ;B1      ;Nicolas Muñoz Escobar ;nicolas.munoz.es@usach.cl    ;J1           ;ED402
+ 10101 ;E1      ;Mario Vega            ;mario.vega.n@usach.cl        ;L6-M6-V6     ;ED706-ED702-ED702
+ 10101 ;E1      ;Patricia López        ;patricia.lopezli@usach.cl    ;W4           ;ED801
+ 10101 ;F1      ;José Molina           ;jose.molina.g@usach.cl       ;M6-W5-V5     ;ED801-ED801-ED801
+ 10101 ;F1      ;Vidal Navarro         ;vidal.navarro@usach.cl       ;J4           ;ED801
+ 10138 ;A1      ;Sebastian Puelma      ;sebastian.puelma@usach.cl    ;L1 - M2 -V1  ;ED201 - ED201 - ED201
+ 10138 ;A1      ;Mariano Ortiz         ;mariano.ortiz@usach.cl       ;W1           ;ED202
+ 10138 ;A1      ;Osvaldo Baeza         ;osvaldo.baeza@usach.cl       ;W1           ;ED304
+ 10138 ;A2      ;Tomás Seguel          ;tomas.seguel@usach.cl        ;L1 - M2 -V1  ;ED302 - ED302 - ED302
+ 10138 ;A2      ;Claudio Gonzalez      ;claudio.gonzalezdub@usach.cl ;W1           ;ED203
+ 10138 ;A2      ;Manuel Galaz          ;manuel.galazp@usach.cl       ;W1           ;ED403
+ 10138 ;A3      ;Mariano Ortiz         ;mariano.ortiz@usach.cl       ;L1 - M2 -V1  ;ED402 - ED402 - ED402
+ 10138 ;A3      ;Tomás Seguel          ;tomas.seguel@usach.cl        ;W1           ;ED303
+ 10138 ;A3      ;Ignacio Huerta        ;ignacio.huerta@usach.cl      ;W1           ;ED404
+ 10138 ;B1      ;Pedro Ávila           ;pedro.avila@usach.cl         ;L2 - M1 - J1 ;ED201 - ED201 - ED201
+ 10138 ;B1      ;Claudia Vargas        ;claudia.vargas.d@usach.cl    ;W2           ;ED203
+ 10138 ;B1      ;Patricia López        ;patricia.lopezli@usach.cl    ;W2           ;ED404
+ 10138 ;B2      ;Mariano Ortiz         ;mariano.ortiz@usach.cl       ;L2 - M1 - J1 ;ED302 - ED302 - ED302
+ 10138 ;B2      ;Mauricio Bravo        ;mauricio.bravo.v@usach.cl    ;W2           ;ED303
+ 10138 ;B2      ;Manuel Ávalos         ;manuel.avalos@usach.cl       ;W2           ;ED503
+ 10138 ;C1      ;Gerald Torres         ;gerald.torres@usach.cl       ;L3 - M3 -V2  ;ED201 - ED201 - ED201
+ 10138 ;C1      ;Isabel Escobar        ;isabel.escobar@usach.cl      ;J3           ;ED303
+ 10138 ;C1      ;Claudio Leal          ;claudio.leal@usach.cl        ;J3           ;ED503
+ 10138 ;C2      ;Moyka Verdugo         ;moyka.verdugo@usach.cl       ;L3 - M3 -V2  ;ED302 - ED302 - ED302
+ 10138 ;C2      ;Claudia Vargas        ;claudia.vargas.d@usach.cl    ;J3           ;ED304
+ 10138 ;C2      ;Gerald Torres         ;gerald.torres@usach.cl       ;J3           ;ED603
+ 10138 ;C3      ;Mauricio Bravo        ;mauricio.bravo.v@usach.cl    ;L3 - M3 -V2  ;ED402 - ED402 - ED402
+ 10138 ;C3      ;Manuel Ávalos         ;manuel.avalos@usach.cl       ;J3           ;ED403
+ 10138 ;C5      ;Oscar López           ;oscar.lopez@usach.cl         ;L3 - M3 -V2  ;ED502 - ED502 -ED502
+ 10138 ;C5      ;Manuel Galaz          ;manuel.galaz@usach.cl        ;J3           ;ED404
+ 10138 ;C5      ;Mauricio Bravo        ;mauricio.bravo.v@usach.cl    ;J3           ;ED604
+ 10138 ;D1      ;Manuel Galaz          ;manuel.galaz@usach.cl        ;L2 - M1 - V1 ;ED502 - ED502 -ED502
+ 10138 ;D1      ;Claudia Vargas        ;claudia.vargas.d@usach.cl    ;J2           ;ED404
+ 10138 ;D1      ;Mauricio Bravo        ;mauricio.bravo.v@usach.cl    ;J2           ;ED604

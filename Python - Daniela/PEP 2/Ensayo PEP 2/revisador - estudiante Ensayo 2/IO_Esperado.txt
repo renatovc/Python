@@ -1,0 +1,91 @@
+###ENTRADA###
+2012
+3
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: Call of Duty: Black Ops II
+Call of Duty: Black Ops II
+New Super Mario Bros. 2
+###ENTRADA###
+2004
+3
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: Grand Theft Auto: San Andreas
+Gran Turismo 4
+Pokemon FireRed/Pokemon LeafGreen
+###ENTRADA###
+2013
+5
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: Grand Theft Auto V
+Grand Theft Auto V
+Pokemon X/Pokemon Y
+Call of Duty: Ghosts
+Call of Duty: Ghosts
+###ENTRADA###
+1985
+5
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: Super Mario Bros.
+Kung Fu
+Soccer
+Ice Climber
+Gyromite
+###ENTRADA###
+2012
+10
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: Call of Duty: Black Ops II
+Call of Duty: Black Ops II
+New Super Mario Bros. 2
+Halo 4
+Animal Crossing: New Leaf
+Pokemon Black 2/Pokemon White 2
+FIFA Soccer 13
+Just Dance 4
+Assassin's Creed III
+Assassin's Creed III
+###ENTRADA###
+1993
+1
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: Super Mario All-Stars
+###ENTRADA###
+2012
+1
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: Call of Duty: Black Ops II
+###ENTRADA###
+1995
+10
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: Donkey Kong Country 2: Diddy's Kong Quest
+Warcraft II: Tides of Darkness
+Super Mario World 2: Yoshi's Island
+Namco Museum Vol.1
+Tekken
+Killer Instinct
+Dragon Quest VI: Maboroshi no Daichi
+Rayman
+Kirby's Dream Land 2
+Chrono Trigger
+###ENTRADA###
+1986
+3
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: The Legend of Zelda
+World Class Track Meet
+Metroid
+###ENTRADA###
+2005
+10
+###SALIDA###
+Ingrese el año a consultar: Ingrese la cantidad: Nintendogs
+Mario Kart DS
+Brain Age: Train Your Brain in Minutes a Day
+Brain Age 2: More Training in Minutes a Day
+Animal Crossing: Wild World
+Grand Theft Auto: Liberty City Stories
+Big Brain Academy
+Madden NFL 06
+God of War
+Need for Speed: Most Wanted

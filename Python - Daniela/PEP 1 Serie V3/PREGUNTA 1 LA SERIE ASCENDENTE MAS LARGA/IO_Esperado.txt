@@ -1,0 +1,40 @@
+###ENTRADA###
+319135471267047685
+###SALIDA###
+Ingrese una secuencia de digitos: 4
+###ENTRADA###
+229841688380105577
+###SALIDA###
+Ingrese una secuencia de digitos: 3
+###ENTRADA###
+314335039511774696
+###SALIDA###
+Ingrese una secuencia de digitos: 3
+###ENTRADA###
+654746862532792155
+###SALIDA###
+Ingrese una secuencia de digitos: 3
+###ENTRADA###
+869722076329560154
+###SALIDA###
+Ingrese una secuencia de digitos: 3
+###ENTRADA###
+437580688864046650
+###SALIDA###
+Ingrese una secuencia de digitos: 3
+###ENTRADA###
+47738347994004649
+###SALIDA###
+Ingrese una secuencia de digitos: 4
+###ENTRADA###
+15100600895485271
+###SALIDA###
+Ingrese una secuencia de digitos: 3
+###ENTRADA###
+548666555995226396
+###SALIDA###
+Ingrese una secuencia de digitos: 2
+###ENTRADA###
+654516743836094237
+###SALIDA###
+Ingrese una secuencia de digitos: 3
